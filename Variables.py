@@ -23,8 +23,6 @@ temperatura = -5.55
 edad = 26.0
 
 
-esta_frio = True
-es_bajo = False
 
 profesor = "Sergio Castaño Giraldo"
 web = 'Control Automático Educación'
@@ -42,3 +40,6 @@ lista = [10,20,30,40]
 print(lista)
 print(lista[0])
 print(lista[3])
+
+esta_frio = True
+es_bajo = False
