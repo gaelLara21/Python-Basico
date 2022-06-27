@@ -36,3 +36,9 @@ cursos = """
 5. PIC
 6. Control de Procesos
 """
+
+# Definición de una lista y referencia a un índice
+lista = [10,20,30,40]
+print(lista)
+print(lista[0])
+print(lista[3])
